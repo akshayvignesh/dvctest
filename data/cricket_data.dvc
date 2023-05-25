@@ -1,0 +1,5 @@
+outs:
+- md5: 06fcc102e4f5a74c1d0014cad8744804.dir
+  size: 348931
+  nfiles: 5
+  path: cricket_data
